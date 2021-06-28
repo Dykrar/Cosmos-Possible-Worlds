@@ -19,4 +19,4 @@ hierárquica, e posteriormente enriquecido com links que envolvem texto, imagem,
 aplicações, permitindo captar as relações entre eles e ilustrar ou complementar as 
 informações veiculadas por cada um.
 
-  Este projeto está alojado no seguinte website: https://cosmos-projetomultimedia.herokuapp.com/
+  Este projeto está alojado no seguinte website: https://cosmos-projeto-multimedia.herokuapp.com/
